@@ -1,0 +1,9 @@
+C:\Users\RippeR\documents\visual studio 2017\Projects\STEMUtil\STEMUtil\bin\Debug\STEMUtil.exe.config
+C:\Users\RippeR\documents\visual studio 2017\Projects\STEMUtil\STEMUtil\bin\Debug\STEMUtil.exe
+C:\Users\RippeR\documents\visual studio 2017\Projects\STEMUtil\STEMUtil\bin\Debug\STEMUtil.pdb
+C:\Users\RippeR\documents\visual studio 2017\Projects\STEMUtil\STEMUtil\obj\Debug\STEMUtil.Form1.resources
+C:\Users\RippeR\documents\visual studio 2017\Projects\STEMUtil\STEMUtil\obj\Debug\STEMUtil.Properties.Resources.resources
+C:\Users\RippeR\documents\visual studio 2017\Projects\STEMUtil\STEMUtil\obj\Debug\STEMUtil.csproj.GenerateResource.Cache
+C:\Users\RippeR\documents\visual studio 2017\Projects\STEMUtil\STEMUtil\obj\Debug\STEMUtil.csproj.CoreCompileInputs.cache
+C:\Users\RippeR\documents\visual studio 2017\Projects\STEMUtil\STEMUtil\obj\Debug\STEMUtil.exe
+C:\Users\RippeR\documents\visual studio 2017\Projects\STEMUtil\STEMUtil\obj\Debug\STEMUtil.pdb
